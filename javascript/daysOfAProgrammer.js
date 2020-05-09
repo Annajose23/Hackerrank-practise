@@ -16,4 +16,4 @@ function dayOfProgrammer(year) {
       return result;
     }
     
-    console.log(dayOfProgrammer(2016));
+    console.log(dayOfProgrammer(2016));1
