@@ -12,3 +12,5 @@ function anagram(s) {
       }
       return sub.length;
   }
+
+anagram('xaxbbbxx')

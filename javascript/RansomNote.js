@@ -20,7 +20,7 @@ function checkMagazine(magazine, note) {
      else {
        isPossible = false;
      }
-   })
+    })
    console.log(isPossible);
  }
 checkMagazine("two times three is not four four Four","two times two is four")
